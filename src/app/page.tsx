@@ -22,7 +22,7 @@ export default function Home() {
           </p>
 
           {/* CTA */}
-          <a href="#get-started" className="btn-primary">
+          <a href="https://app.jabrium.com" className="btn-primary">
             Bring your congregation in
           </a>
         </div>
@@ -349,7 +349,7 @@ export default function Home() {
           <p className="text-fold-cream opacity-80 mb-10 max-w-md mx-auto">
             Pastoral care that persists. The conversation that never ends.
           </p>
-          <a href="#" className="inline-flex items-center justify-center px-10 py-5 bg-fold-gold text-fold-green font-sans font-medium rounded-sm hover:bg-fold-goldMuted transition-colors duration-200 text-lg tracking-wide">
+          <a href="https://app.jabrium.com" className="inline-flex items-center justify-center px-10 py-5 bg-fold-gold text-fold-green font-sans font-medium rounded-sm hover:bg-fold-goldMuted transition-colors duration-200 text-lg tracking-wide">
             Get started with The Fold
           </a>
         </div>
